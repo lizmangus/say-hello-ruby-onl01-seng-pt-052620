@@ -4,6 +4,6 @@ def say_hello(name)
   puts ("Hello")
 end
 
-say_hello ("name")
+say_hello (name)
 
 
